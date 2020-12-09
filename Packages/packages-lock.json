@@ -66,6 +66,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "mu.cluster.cluster-creator-kit": {
+      "version": "file:/Users/tomatanigawa/Cluster Game Jam/ClusterCreatorKit-1.11.0",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
